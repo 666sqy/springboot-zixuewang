@@ -15,6 +15,9 @@ public class Hello {
 
     public static void main(String[] args) {
         System.out.println("hell1");
+        System.out.println("hell2");
+        System.out.println("hell3");
+        System.out.println("hell4");
     }
 
 }
