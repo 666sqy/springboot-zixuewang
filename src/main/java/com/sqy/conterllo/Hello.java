@@ -13,4 +13,8 @@ public class Hello {
         System.out.println(99999);
     }
 
+    public static void main(String[] args) {
+        System.out.println("hell1");
+    }
+
 }
